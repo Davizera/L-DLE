@@ -1,0 +1,17 @@
+{
+  "ByteBank.Agencias": "ByteBank.Agencias.yml",
+  "ByteBank.Agencias.App": "ByteBank.Agencias.App.yml",
+  "ByteBank.Agencias.EdicaoAgencia": "ByteBank.Agencias.EdicaoAgencia.yml",
+  "ByteBank.Agencias.EdicaoAgencia.#ctor(ByteBank.Agencias.DAL.Agencia)": "ByteBank.Agencias.EdicaoAgencia.yml",
+  "ByteBank.Agencias.MainWindow": "ByteBank.Agencias.MainWindow.yml",
+  "ByteBank.Agencias.MainWindow.#ctor": "ByteBank.Agencias.MainWindow.yml",
+  "ByteBank.Agencias.ValidacaoEventArgs": "ByteBank.Agencias.ValidacaoEventArgs.yml",
+  "ByteBank.Agencias.ValidacaoEventArgs.#ctor(System.String)": "ByteBank.Agencias.ValidacaoEventArgs.yml",
+  "ByteBank.Agencias.ValidacaoEventArgs.EhValido": "ByteBank.Agencias.ValidacaoEventArgs.yml",
+  "ByteBank.Agencias.ValidacaoEventArgs.Texto": "ByteBank.Agencias.ValidacaoEventArgs.yml",
+  "ByteBank.Agencias.ValidacaoEventHandler": "ByteBank.Agencias.ValidacaoEventHandler.yml",
+  "ByteBank.Agencias.ValidacaoTextBox": "ByteBank.Agencias.ValidacaoTextBox.yml",
+  "ByteBank.Agencias.ValidacaoTextBox.OnTextChanged(System.Windows.Controls.TextChangedEventArgs)": "ByteBank.Agencias.ValidacaoTextBox.yml",
+  "ByteBank.Agencias.ValidacaoTextBox.OnValidacao": "ByteBank.Agencias.ValidacaoTextBox.yml",
+  "ByteBank.Agencias.ValidacaoTextBox.Validacao": "ByteBank.Agencias.ValidacaoTextBox.yml"
+}

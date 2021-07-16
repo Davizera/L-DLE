@@ -1,0 +1,62 @@
+### YamlMime:ManagedReference
+items:
+- uid: ByteBank.Agencias.ValidacaoEventHandler
+  commentId: T:ByteBank.Agencias.ValidacaoEventHandler
+  id: ValidacaoEventHandler
+  parent: ByteBank.Agencias
+  children: []
+  langs:
+  - csharp
+  - vb
+  name: ValidacaoEventHandler
+  nameWithType: ValidacaoEventHandler
+  fullName: ByteBank.Agencias.ValidacaoEventHandler
+  type: Delegate
+  source:
+    remote:
+      path: C:/Github/Learning-about-event-and-delegates/ByteBank.Agencias/ValidacaoTextBox.cs
+    id: ValidacaoEventHandler
+    path: ../ByteBank.Agencias/ValidacaoTextBox.cs
+    startLine: 10
+  assemblies:
+  - ByteBank.Agencias
+  namespace: ByteBank.Agencias
+  syntax:
+    content: public delegate void ValidacaoEventHandler(object sender, ValidacaoEventArgs e);
+    parameters:
+    - id: sender
+      type: System.Object
+    - id: e
+      type: ByteBank.Agencias.ValidacaoEventArgs
+    content.vb: Public Delegate Sub ValidacaoEventHandler(sender As Object, e As ValidacaoEventArgs)
+  modifiers.csharp:
+  - public
+  - delegate
+  modifiers.vb:
+  - Public
+  - Delegate
+references:
+- uid: ByteBank.Agencias
+  commentId: N:ByteBank.Agencias
+  name: ByteBank.Agencias
+  nameWithType: ByteBank.Agencias
+  fullName: ByteBank.Agencias
+- uid: System.Object
+  commentId: T:System.Object
+  parent: System
+  isExternal: true
+  name: Object
+  nameWithType: Object
+  fullName: System.Object
+- uid: ByteBank.Agencias.ValidacaoEventArgs
+  commentId: T:ByteBank.Agencias.ValidacaoEventArgs
+  parent: ByteBank.Agencias
+  name: ValidacaoEventArgs
+  nameWithType: ValidacaoEventArgs
+  fullName: ByteBank.Agencias.ValidacaoEventArgs
+- uid: System
+  commentId: N:System
+  isExternal: true
+  name: System
+  nameWithType: System
+  fullName: System

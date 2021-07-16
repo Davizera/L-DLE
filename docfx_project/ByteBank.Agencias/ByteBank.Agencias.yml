@@ -1,0 +1,59 @@
+### YamlMime:ManagedReference
+items:
+- uid: ByteBank.Agencias
+  commentId: N:ByteBank.Agencias
+  id: ByteBank.Agencias
+  children:
+  - ByteBank.Agencias.App
+  - ByteBank.Agencias.EdicaoAgencia
+  - ByteBank.Agencias.MainWindow
+  - ByteBank.Agencias.ValidacaoEventArgs
+  - ByteBank.Agencias.ValidacaoEventHandler
+  - ByteBank.Agencias.ValidacaoTextBox
+  langs:
+  - csharp
+  - vb
+  name: ByteBank.Agencias
+  nameWithType: ByteBank.Agencias
+  fullName: ByteBank.Agencias
+  type: Namespace
+  assemblies:
+  - ByteBank.Agencias
+references:
+- uid: ByteBank.Agencias.ValidacaoEventArgs
+  commentId: T:ByteBank.Agencias.ValidacaoEventArgs
+  parent: ByteBank.Agencias
+  name: ValidacaoEventArgs
+  nameWithType: ValidacaoEventArgs
+  fullName: ByteBank.Agencias.ValidacaoEventArgs
+- uid: ByteBank.Agencias.ValidacaoEventHandler
+  commentId: T:ByteBank.Agencias.ValidacaoEventHandler
+  parent: ByteBank.Agencias
+  name: ValidacaoEventHandler
+  nameWithType: ValidacaoEventHandler
+  fullName: ByteBank.Agencias.ValidacaoEventHandler
+- uid: ByteBank.Agencias.ValidacaoTextBox
+  commentId: T:ByteBank.Agencias.ValidacaoTextBox
+  name: ValidacaoTextBox
+  nameWithType: ValidacaoTextBox
+  fullName: ByteBank.Agencias.ValidacaoTextBox
+- uid: ByteBank.Agencias.App
+  commentId: T:ByteBank.Agencias.App
+  name: App
+  nameWithType: App
+  fullName: ByteBank.Agencias.App
+- uid: ByteBank.Agencias.EdicaoAgencia
+  commentId: T:ByteBank.Agencias.EdicaoAgencia
+  name: EdicaoAgencia
+  nameWithType: EdicaoAgencia
+  fullName: ByteBank.Agencias.EdicaoAgencia
+- uid: ByteBank.Agencias.MainWindow
+  commentId: T:ByteBank.Agencias.MainWindow
+  name: MainWindow
+  nameWithType: MainWindow
+  fullName: ByteBank.Agencias.MainWindow
+- uid: ByteBank.Agencias
+  commentId: N:ByteBank.Agencias
+  name: ByteBank.Agencias
+  nameWithType: ByteBank.Agencias
+  fullName: ByteBank.Agencias

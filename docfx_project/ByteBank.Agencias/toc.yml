@@ -1,0 +1,16 @@
+### YamlMime:TableOfContent
+- uid: ByteBank.Agencias
+  name: ByteBank.Agencias
+  items:
+  - uid: ByteBank.Agencias.App
+    name: App
+  - uid: ByteBank.Agencias.EdicaoAgencia
+    name: EdicaoAgencia
+  - uid: ByteBank.Agencias.MainWindow
+    name: MainWindow
+  - uid: ByteBank.Agencias.ValidacaoEventArgs
+    name: ValidacaoEventArgs
+  - uid: ByteBank.Agencias.ValidacaoEventHandler
+    name: ValidacaoEventHandler
+  - uid: ByteBank.Agencias.ValidacaoTextBox
+    name: ValidacaoTextBox
